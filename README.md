@@ -22,6 +22,6 @@
 > Genre: Horror, Story <br>
 > The player is trapped in a communist appartment building and weird things happen. Careful for the train rails in the hallway, a train will rush! Inside the bathroom, don't fight the microwaveman. When you exit the building watch out for giraffes with baby doll heads. <br>
 >
-> -Project D <br>
+> - Project D <br>
 > Genre: Horror, Post Apocalypse, CO-OP
 > Drive around the post apocalyptic world in your high tech truck and deliver O2 to the bunkers sheltering the last human lives. You will always be followed by the monster Blade Runner across the whole map  and also find anothers.
