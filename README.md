@@ -1,6 +1,6 @@
-## Hands-On Machine Learning In Computer Vision
+## TokYy framework
 
-### TokYy: Machine Learning Framework built upon PyTorch
+TokYy is an entire library used to create, train and evaluate models. It's advantages are the modularity it brings in the training process.
 
 ## Video-Games Development Passionate
 
