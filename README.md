@@ -14,7 +14,12 @@
 
 > Below you can see some of my works.
 
-<figure>
-  <img src="./killtheplayer.gif" alt="Demo" width="300"/>
-  <figcaption><em>Kill The Player.</em></figcaption>
-</figure>
+<div style="display: flex; gap: 20px; align-items: center;">
+  <figure>
+    <img src="./killtheplayer.gif" alt="Demo" width="300"/>
+  </figure>
+  
+  <figure>
+    <img src="./thetrasnporters1.gif" alt="Demo" width="300"/>
+  </figure>
+</div>
